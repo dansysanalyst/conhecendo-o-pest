@@ -180,7 +180,7 @@ Aproveitando, podemos user o método "assertOK" PHPUnit. Basta trocar``$response
 
 ### 3.4 Fazendo o teste falhar
 
-Quando um teste falha o PEST apresenta uma mensagem de erro bem desenhada e amigável. Isso porque ele se vale do [Collison](https://github.com/nunomaduro/collision), outro pacote do Nuno Maduro.
+Quando um teste falha o PEST apresenta uma mensagem de erro bem desenhada e amigável. Isso porque ele se vale do [Collision](https://github.com/nunomaduro/collision), outro pacote do Nuno Maduro.
 
 O teste anterior garantiu que estamos recebendo o status "200", ou seja, tudo funcionou como o esperado.
 
